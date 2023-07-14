@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rubix/ml": "^2.4",
+        "google/cloud-vision": "^1.7"
+    }
+}
